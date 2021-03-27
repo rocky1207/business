@@ -1,2 +1,2 @@
 # business
-This is HTML,  CSS, SCSS and PHP website.
+This is CSS, SCSS and PHP website.
